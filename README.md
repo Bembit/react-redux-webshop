@@ -1,5 +1,9 @@
-http://localhost:1337/api/products/seed
-for mongodb
+# React Redux Webshop with Auth and MongoDB
 
-webshop
-2021 react refresh with hooks
+carts, users, db, starting of checkout and looots of buggy logic for item price calculations
+
+Seed Data.js to localhost mongodb
+
+/api/products/seed
+
+![landing.png](landing.png)
