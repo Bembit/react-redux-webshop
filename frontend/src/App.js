@@ -103,7 +103,7 @@ function App() {
             </main>
 
             <footer className="row center">
-                copyright Webshop and all its affiliates
+                footer temp
             </footer>
 
         </div>

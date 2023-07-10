@@ -17,7 +17,7 @@ const Data = {
     ],
     products: [
         {
-            name: 'Punk Emo Skirt',
+            name: 'Some clothing',
             category: 'Skirts',
             image: '/images/product-1-1',
             price: 35.99,
@@ -29,7 +29,7 @@ const Data = {
             description: 'Your usual emo skirt, nothing new, nothing changed since the 2000\'s.'
         },
         {
-            name: 'Human Female Blouse',
+            name: 'Girls blouse',
             category: 'Skirts',
             image: '/images/product-2-1',
             price: 23.99,
@@ -41,7 +41,7 @@ const Data = {
             description: 'Your usual emo skirt, nothing new, nothing changed since the 2000\'s.'
         },
         {
-            name: 'Human Male Shirt',
+            name: 'Menz Shirt',
             category: 'Skirts',
             image: '/images/product-3-1',
             price: 39.99,
@@ -53,7 +53,7 @@ const Data = {
             description: 'Your usual emo skirt, nothing new, nothing changed since the 2000\'s.'
         },
         {
-            name: 'Punk Emo Skirt',
+            name: 'Some clothing',
             category: 'Skirts',
             image: '/images/product-4-1',
             price: 51.99,
@@ -65,7 +65,7 @@ const Data = {
             description: 'Your usual emo skirt, nothing new, nothing changed since the 2000\'s.'
         },
         {
-            name: 'Punk Emo Skirt',
+            name: 'Some clothing',
             category: 'Skirts',
             image: '/images/product-5-1',
             price: 25.99,
@@ -77,7 +77,7 @@ const Data = {
             description: 'Your usual emo skirt, nothing new, nothing changed since the 2000\'s.'
         },
         {
-            name: 'Human Male Shirt',
+            name: 'Menz Shirt',
             category: 'Skirts',
             image: '/images/product-6-1',
             price: 19.99,
@@ -89,7 +89,7 @@ const Data = {
             description: 'Your usual emo skirt, nothing new, nothing changed since the 2000\'s.'
         },
         {
-            name: 'Punk Emo Skirt',
+            name: 'Some clothing',
             category: 'Skirts',
             image: '/images/product-7-1',
             price: 22.99,
@@ -101,7 +101,7 @@ const Data = {
             description: 'Your usual emo skirt, nothing new, nothing changed since the 2000\'s.'
         },
         {
-            name: 'Punk Emo Skirt',
+            name: 'Some clothing',
             category: 'Skirts',
             image: '/images/product-8-1',
             price: 89.99,
@@ -113,7 +113,7 @@ const Data = {
             description: 'Your usual emo skirt, nothing new, nothing changed since the 2000\'s.'
         },
         {
-            name: 'Punk Emo Skirt',
+            name: 'Some clothing',
             category: 'Skirts',
             image: '/images/product-9-1',
             price: 28.99,
@@ -125,7 +125,7 @@ const Data = {
             description: 'Your usual emo skirt, nothing new, nothing changed since the 2000\'s.'
         },
         {
-            name: 'Punk Emo Skirt',
+            name: 'Some clothing',
             category: 'Skirts',
             image: '/images/product-10-1',
             price: 37.99,
@@ -137,7 +137,7 @@ const Data = {
             description: 'Your usual emo skirt, nothing new, nothing changed since the 2000\'s.'
         },
         {
-            name: 'Punk Emo Skirt',
+            name: 'Some clothing',
             category: 'Skirts',
             image: '/images/product-11-1',
             price: 45.99,
@@ -149,7 +149,7 @@ const Data = {
             description: 'Your usual emo skirt, nothing new, nothing changed since the 2000\'s.'
         },
         {
-            name: 'Punk Emo Skirt',
+            name: 'Some clothing',
             category: 'Skirts',
             image: '/images/product-12-1',
             price: 55.99,
@@ -161,7 +161,7 @@ const Data = {
             description: 'Your usual emo skirt, nothing new, nothing changed since the 2000\'s.'
         },
         {
-            name: 'Punk Emo Skirt',
+            name: 'Some clothing',
             category: 'Skirts',
             image: '/images/product-13-1',
             price: 109.99,
@@ -173,7 +173,31 @@ const Data = {
             description: 'Your usual emo skirt, nothing new, nothing changed since the 2000\'s.'
         },
         {
-            name: 'Punk Emo Skirt',
+            name: 'Some clothing',
+            category: 'Skirts',
+            image: '/images/product-14-1',
+            price: 17.99,
+            discountPercent: 0,
+            brand: 'HotTopic',
+            rating: 3.5,
+            numReviews: 12,
+            countInStock: 15,
+            description: 'Your usual emo skirt, nothing new, nothing changed since the 2000\'s.'
+        },
+        {
+            name: 'Some clothing',
+            category: 'Skirts',
+            image: '/images/product-14-1',
+            price: 17.99,
+            discountPercent: 0,
+            brand: 'HotTopic',
+            rating: 3.5,
+            numReviews: 12,
+            countInStock: 15,
+            description: 'Your usual emo skirt, nothing new, nothing changed since the 2000\'s.'
+        },
+        {
+            name: 'Some clothing',
             category: 'Skirts',
             image: '/images/product-14-1',
             price: 17.99,
