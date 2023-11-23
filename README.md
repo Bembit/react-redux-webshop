@@ -1,8 +1,6 @@
-# React Redux Webshop with Auth and MongoDB
+## React-Redux Webshop base.
 
-just playing and learning hooks
-
-carts, users, db, starting of checkout and looots of buggy logic for item price calculations
+MERN stack webshop base.
 
 seed Data.js to localhost mongodb
 
