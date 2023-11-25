@@ -6,4 +6,4 @@ seed Data.js to localhost mongodb
 
 /api/products/seed
 
-![landing.png](landing.png)
+![landing.png](landing.jpg)
