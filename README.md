@@ -1,10 +1,6 @@
 ## React-Redux Webshop/Ecommerce, MERN stack.
 
-### Technologies Used
-
-- React: For building the user interface and managing the application's front end.
-- Redux: For state management, providing a centralized store for data and simplifying data flow.
-- MongoDB: As the local backend storage database.
+## I wish everything was as simple as a webshop.
 
 ### Getting Started
 
@@ -28,7 +24,7 @@
 
 #### User Authentication
 
-- The application supports user registration, allowing users to create accounts.
+- The application supports user registration, allowing users to create accounts, sign in and out.
 
 #### Checkout Process
 
